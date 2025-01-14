@@ -1,7 +1,9 @@
 {
-  "name": "taylor",
-  "version": "25.1.7",
+  "name": "castrguru-taylor",
+  "version": "25.1.12",
   "license": "MIT",
+  "description": "A complete low-no code solution for frame building on Farcaster.",
+  "author": "Castr GÜRŲ",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
